@@ -9,7 +9,7 @@
  **类型**：单文件 GUI + CLI 工具
  **功能**：扫描、删除 Windows 注册表右键“打印(Print/PrintTo)”菜单，支持备份与恢复
 
-<img src="E:\Files\用户\Desktop\整理\注册表右键删除打印备份\C%23\PrintMenuCleaner\image\README\1764476466326.png" style="zoom:50%;" />
+<img src="image\README\1764476466326.png" style="zoom:50%;" />
 
 **主要特点**：
 
